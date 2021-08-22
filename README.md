@@ -1,8 +1,8 @@
 - 👋 Hi, I’m cihan altan
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in .frontend.
+- 🌱 I’m currently learning .javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me .cihann_altan@hotmail.com
 
 <!---
 cihan92/cihan92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
