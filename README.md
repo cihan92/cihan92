@@ -1,7 +1,7 @@
 - 👋 Hi, I’m cihan altan
-- 👀 I’m interested in frontend.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me cihann_altan@hotmail.com
 
 <!---
